@@ -13,4 +13,6 @@
 
 ## لتشغيل المشروع:
 1. تأكد من وجود ملف `Reviews.csv` (البيانات).
-2. ثبّت المتطلبات:
+2. https://1drv.ms/x/c/b426499823cf7dce/EdNtLU9bbHBMrH3r_Cyf1QYBnloWF2ryhQoCX9pdbfjSwQ?e=tDf1cf
+3. 
+4. ثبّت المتطلبات:
